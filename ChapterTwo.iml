@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/TaskEight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskEighteen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskFifteen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskFour" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskFourteen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskNineteen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskOne" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskSeventeen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskSixteen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskThirteen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskThirty" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskThirty-one" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskThirty-two" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskThree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwenty" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwenty-eight" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwenty-five" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwenty-four" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwenty-nine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwenty-one" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwenty-seven" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwenty-six" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwenty-three" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwenty-two" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaskTwo" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
